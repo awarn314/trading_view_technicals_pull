@@ -6,9 +6,6 @@ Created on Sat May 18 19:11:51 2019
 """
 
 from selenium import webdriver
-#from selenium.webdriver.common.keys import Keys
-#from bs4 import BeautifulSoup
-#import pandas as pd
 from urllib.request import urlopen
 
 def technicals(se,ticker,p):
